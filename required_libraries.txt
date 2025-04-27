@@ -1,0 +1,3 @@
+wikipedia
+speak detection ka koi tha
+pip install python-vlc ( vlc library)
